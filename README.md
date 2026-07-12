@@ -1,7 +1,31 @@
 ⚔️ DuelTactix AI (FDI Platform)
 An end-to-end Sports AI Decision Intelligence platform that models the psychological duel between striker and goalkeeper. By combining structured match data, Computer Vision biomechanics, Deep Learning embeddings, and Generative AI, the system provides explainable predictions, simulates thousands of match outcomes, and recommends optimal strategies.
 
-Python | FastAPI | CatBoost | React | Groq
+https://img.shields.io/badge/PYTHON-3.11-blue
+https://img.shields.io/badge/FastAPI-v0.110.0-lightgrey
+https://img.shields.io/badge/CatBoost-v1.3.2-orange
+https://img.shields.io/badge/React-18.2.0-blue
+https://img.shields.io/badge/Groq-Llama-3.3-red
+https://img.shields.io/badge/docker-green
+https://img.shields.io/badge/tensorflow-orange
+https://img.shields.io/badge/Shap-v0.44.1-orange
+https://img.shields.io/badge/Recharts-v2.7.2-orange
+https://img.shields.io/badge/cv2-v4.9.0-orange
+https://img.shields.io/badge/Joblib-v1.3.2-orange
+https://img.shields.io/badge/CatBoost-v1.2.5-orange
+https://img.shields.io/badge/Joblib-v1.3.2-orange
+https://img.shields.io/badge/Shap-v0.44.1-orange
+https://img.shields.io/badge/cv2-v4.9.0-orange
+https://img.shields.io/badge/Recharts-v2.7.2-orange
+https://img.shields.io/badge/openai-v1.12.0-orange
+https://img.shields.io/badge/mediapipe-v0.10.9-orange
+https://img.shields.io/badge/numpy-v1.26.4-orange
+https://img.shields.io/badge/pandas-v2.2.0-orange
+https://img.shields.io/badge/tensorflow-orange
+https://img.shields.io/badge/pydantic-v2.6.1-orange
+https://img.shields.io/badge/python-jose-v3.3.0-orange
+https://img.shields.io/badge/python-multipart-v0.0.9-orange
+https://img.shields.io/badge/slowapi-v0.1.9-orange
 
 ## 🧠 The Problem We Solved
 Traditional football analytics treat the striker and goalkeeper in isolation, providing static, black-box predictions that coaches don't trust.
